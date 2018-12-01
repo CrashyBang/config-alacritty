@@ -87,21 +87,21 @@ tabspaces: 8
 font:
   # Normal (roman) font face
   normal:
-      family: "Hack"
+      family: "Input Mono"
     # The `style` can be specified to pick a specific face.
     # style: Regular
 
   # Bold font face
   bold:
-    family: "Hack"
+    family: "Input Mono"
     # The `style` can be specified to pick a specific face.
-    # style: Bold
+    style: Regular
 
   # Italic font face
   italic:
-    family: "Hack"
+    family: "Input Mono"
     # The `style` can be specified to pick a specific face.
-    # style: Italic
+    style: Regular
 
   # Point size
   size: 8.0
